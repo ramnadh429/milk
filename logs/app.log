@@ -1,0 +1,4 @@
+2022-03-13 10:42:33,715 INFO com.cg.dms.controllers.FarmerController [http-nio-8015-exec-9] insertFarmer()Called
+2022-03-13 10:42:41,113 INFO com.cg.dms.controllers.FarmerController [http-nio-8015-exec-10] getAllFarmer()Called
+2022-03-13 10:49:27,444 INFO com.cg.dms.controllers.FarmerController [http-nio-8015-exec-4] insertFarmer()Called
+2022-03-13 10:49:37,004 INFO com.cg.dms.controllers.FarmerController [http-nio-8015-exec-5] getAllFarmer()Called
